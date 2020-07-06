@@ -19,5 +19,8 @@ Este é o repositório do mais novo aplicativo de avaliação dos consumidores, 
 
 
 
+![Frame 17](https://user-images.githubusercontent.com/67769685/86551370-3ad0b500-bf1b-11ea-95d4-df8660b437ad.jpg)
+
+
 
 
