@@ -5,7 +5,7 @@ Este é o repositório do mais novo aplicativo de avaliação dos consumidores, 
 
 **Decrição completa: link  **
 
-1.Pré-Resquisitos:
+1.  Pré-Resquisitos:
 * Para atual visualização do produto foi utilizado a IDE do Visual Studio Code, nas linguagens HTML e Css, além do uso de softwares voltados a prototipagem como Figma, Axure e Adobe XD.
 
 2. Problema de Negócio:
