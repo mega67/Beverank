@@ -17,7 +17,7 @@ Este é o repositório do mais novo aplicativo de avaliação dos consumidores, 
 * Os benefícios se referem a coleta de dados reais e concretos que possibilitam a identificação das falhas tornando a execução do serviço mais efetiva e assertiva, além da possibilidade de engajamento, interação e além do desenvolvimento do interesse em relação ao espirito da marca e seus produtos. Por meio do sistema de feedbacks que serão obtidos. Podendo ainda obter mais engajamento por parte do seu público, tendo em vista o sistema de gameficação que os atrairão para o maior consumo dos itens. 
 
 
-![Frame 17](https://user-images.githubusercontent.com/67769685/86551157-ad8d6080-bf1a-11ea-9976-cb31890b9b45.jpg)
+
 
 
 
