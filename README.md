@@ -1,4 +1,4 @@
-##### Descrição do Projeto:
+## Descrição do Projeto:
 Este é o repositório do mais novo aplicativo de avaliação dos consumidores, aqui contém um produto de versão 1.0 voltado ao Desafio da Ambev.
 
 **Beverank é o mais aplicativo voltado a avaliação do consumidor, o mesmo utiliza estrutura e técnicas de design de jogos denominada (Gamificação), a aplicação garante a coleta de dados em um banco de dados estruturado para futuras analises, onde s consumidores podem comentar e visualizar suas próprias avalições, asssim como os donos de estabelecimentos assim como bares, mercadinhos e grande mercados podem ter acesso a esses dados através de registros prévios**
