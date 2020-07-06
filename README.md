@@ -3,7 +3,7 @@ Este é o repositório do mais novo aplicativo de avaliação dos consumidores, 
 
 **Beverank é o mais aplicativo voltado a avaliação do consumidor, o mesmo utiliza estrutura e técnicas de design de jogos denominada (Gamificação), a aplicação garante a coleta de dados em um banco de dados estruturado para futuras analises, onde s consumidores podem comentar e visualizar suas próprias avalições, asssim como os donos de estabelecimentos assim como bares, mercadinhos e grande mercados podem ter acesso a esses dados através de registros prévios**
 
-**Decrição completa: link**
+**Decrição completa: https://docs.google.com/presentation/d/1lDO-VDxdCj-QERHZDMZ0WbN1Ew7ISDZuDmN8OoELAOo/edit?usp=sharing**
 
 1.  Pré-Resquisitos:
 * Para atual visualização do produto foi utilizado a IDE do Visual Studio Code, nas linguagens HTML e Css, além do uso de softwares voltados a prototipagem como Figma, Axure e Adobe XD.
