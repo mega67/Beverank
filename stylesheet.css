@@ -1,0 +1,362 @@
+:root {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    width: 50%;
+    height: 657px;
+    background-color: blue;
+    /* Vector */
+    position: absolute;
+    left: -50.21%;
+    right: 29.9%;
+    top: 28.58%;
+    bottom: 33.26%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 1px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.95, -0.32, -0.32, -0.95, 0, 0);
+    /* Menu */
+    position: absolute;
+    left: 5.07%;
+    right: 87.68%;
+    top: 4.91%;
+    bottom: 92.84%;
+    /* Bloco 1 */
+    position: absolute;
+    width: 376px;
+    height: 218px;
+    left: 39px;
+    top: 158px;
+    /* Banner */
+    position: absolute;
+    left: -18.36%;
+    right: -2.17%;
+    top: 46.43%;
+    bottom: 25.97%;
+    /* Vector */
+    position: absolute;
+    left: 29.71%;
+    right: -27.06%;
+    top: 105.56%;
+    bottom: -40.81%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 150px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.61, -0.81, 0.77, 0.62, 0, 0);
+    /* Vector */
+    position: absolute;
+    left: 6.04%;
+    right: 46.14%;
+    top: 70.42%;
+    bottom: 9.54%;
+    /* Pronto para */
+    position: absolute;
+    width: 165px;
+    height: 70px;
+    left: 249px;
+    top: 638px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    /* Efeito */
+    position: absolute;
+    width: 136px;
+    height: 58px;
+    left: 229px;
+    top: 663px;
+    /* Botão Ranking */
+    position: absolute;
+    width: 112px;
+    height: 37px;
+    left: 255px;
+    top: 739px;
+    /* Perfil */
+    position: absolute;
+    left: 70.05%;
+    right: -7.97%;
+    top: 3.91%;
+    bottom: 87.28%;
+    /* Bloco 1 */
+    position: absolute;
+    width: 376px;
+    height: 218px;
+    left: 39px;
+    top: 158px;
+    /* Vector */
+    position: absolute;
+    left: -50.21%;
+    right: 29.9%;
+    top: 28.58%;
+    bottom: 33.26%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 1px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.95, -0.32, -0.32, -0.95, 0, 0);
+    /* Menu */
+    position: absolute;
+    left: 5.07%;
+    right: 87.68%;
+    top: 4.91%;
+    bottom: 92.84%;
+    /* Banner */
+    position: absolute;
+    left: -18.36%;
+    right: -2.17%;
+    top: 46.43%;
+    bottom: 25.97%;
+    /* Vector */
+    position: absolute;
+    left: 29.71%;
+    right: -27.06%;
+    top: 105.56%;
+    bottom: -40.81%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 150px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.61, -0.81, 0.77, 0.62, 0, 0);
+    /* Vector */
+    position: absolute;
+    left: 6.04%;
+    right: 46.14%;
+    top: 70.42%;
+    bottom: 9.54%;
+    /* Pronto para */
+    position: absolute;
+    width: 165px;
+    height: 70px;
+    left: 249px;
+    top: 638px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    /* Efeito */
+    position: absolute;
+    width: 136px;
+    height: 58px;
+    left: 229px;
+    top: 663px;
+    /* Menu */
+    position: absolute;
+    width: 306px;
+    height: 248px;
+    left: -121px;
+    top: 36px;
+    /* Perfil */
+    position: absolute;
+    left: 70.05%;
+    right: -7.97%;
+    top: 3.91%;
+    bottom: 87.28%;
+    /* Botão Ranking */
+    position: absolute;
+    width: 112px;
+    height: 37px;
+    left: 255px;
+    top: 739px;
+    /* Rectangle 7 */
+    position: absolute;
+    left: -5.8%;
+    right: -4.11%;
+    top: -3.57%;
+    bottom: 74.44%;
+    background: #1268CE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    /* Perfil */
+    position: absolute;
+    left: 82.22%;
+    right: -8.17%;
+    top: 18.35%;
+    bottom: 74.88%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Vector */
+    position: absolute;
+    left: 30.31%;
+    right: -20.91%;
+    top: 107.95%;
+    bottom: -41.64%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 150px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.62, -0.74, 0.84, 0.61, 0, 0);
+    /* Vector */
+    position: absolute;
+    left: 5.8%;
+    right: 89.37%;
+    top: 18.08%;
+    bottom: 79.8%;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Ellipse 1 */
+    position: absolute;
+    left: 9.18%;
+    right: 69.32%;
+    top: 29.35%;
+    bottom: 61.83%;
+    background: #FFFFFF;
+    /* lvl. 50 */
+    position: absolute;
+    left: 13.29%;
+    right: 74.15%;
+    top: 26.56%;
+    bottom: 71.54%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    /* Barra */
+    position: absolute;
+    left: 30.79%;
+    right: 2.4%;
+    top: 27.91%;
+    bottom: 65.22%;
+    /* Conquista */
+    position: absolute;
+    width: 390px;
+    height: 326.52px;
+    left: 14.06px;
+    top: 367.85px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Conquista */
+    position: absolute;
+    width: 270.61px;
+    height: 181.1px;
+    left: 73.76px;
+    top: 720.24px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Tags */
+    position: absolute;
+    width: 340.26px;
+    height: 79.4px;
+    left: 38.93px;
+    top: 401.75px;
+    /* Cupons */
+    position: absolute;
+    width: 216.89px;
+    height: 102.59px;
+    left: 100.62px;
+    top: 783.58px;
+    /* Legenda */
+    position: absolute;
+    width: 24.87px;
+    height: 13.38px;
+    left: 92.66px;
+    top: 748.79px;
+    /* #Tags Mais Usadas */
+    position: absolute;
+    width: 185px;
+    height: 24px;
+    left: 50px;
+    top: 377px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #000000;
+    /* User. Zeca */
+    position: absolute;
+    width: 89px;
+    height: 79px;
+    left: 38px;
+    top: 263px;
+    background: url(1568728982468.jpg);
+    /* Vector */
+    position: absolute;
+    left: -50.21%;
+    right: 29.9%;
+    top: 28.58%;
+    bottom: 33.26%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 1px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.95, -0.32, -0.32, -0.95, 0, 0);
+    /* Rectangle 57 */
+    position: absolute;
+    left: -64.73%;
+    right: -3.62%;
+    top: 16.63%;
+    bottom: 66.96%;
+    background: linear-gradient(180deg, #025BC4 79.78%, #1268CE 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    /* Vector */
+    position: absolute;
+    left: 29.71%;
+    right: -27.06%;
+    top: 105.56%;
+    bottom: -40.81%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 150px rgba(0, 0, 0, 0.05);
+    transform: matrix(0.61, -0.81, 0.77, 0.62, 0, 0);
+    /* Menu */
+    position: absolute;
+    left: 5.07%;
+    right: 87.68%;
+    top: 4.91%;
+    bottom: 92.84%;
+    /* Bem vindo ao, Ranking Geral */
+    position: absolute;
+    left: 9.66%;
+    right: 9.42%;
+    top: 19.2%;
+    bottom: 77.57%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    /* Ilustração Troféu */
+    position: absolute;
+    left: 41.55%;
+    right: 41.55%;
+    top: 9.71%;
+    bottom: 81.47%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Perfil */
+    position: absolute;
+    left: 70.05%;
+    right: -7.97%;
+    top: 3.91%;
+    bottom: 87.28%;
+    /* Card . Victória */
+    position: absolute;
+    left: 7.25%;
+    right: 7.33%;
+    top: 23.88%;
+    bottom: 68.15%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Frame 13 */
+    position: absolute;
+    left: 7.25%;
+    right: 7.33%;
+    top: 32.81%;
+    bottom: -20.2%;
+    overflow-y: scroll;
+    /* Rectangle 58 */
+    position: absolute;
+    left: -67.15%;
+    right: -3.62%;
+    top: 97.77%;
+    bottom: -10.27%;
+    background: linear-gradient(180deg, #025BC4 24.78%, #1268CE 45%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
